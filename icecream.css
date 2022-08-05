@@ -1,0 +1,140 @@
+body{
+    /* background: url(./fud.webp);
+    background-size: cover; */
+  text-align: center;
+  margin: 0%;  
+  width: 100%;
+}
+.ice1{
+    
+    background-color: white;
+    width: 100%;
+    margin-top: 20px;
+}
+.links{
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+font-family: 'Edu VIC WA NT Beginner', cursive;
+margin-top: 50px;
+}
+a{
+    text-decoration: none;
+    color: darkred;
+    text-shadow: 2px 2px 2px lightslategray;
+}
+img{
+  width: 70%;
+  margin-top: 60PX;
+  padding-left: 20PX;
+  padding-right: 20px ;
+ 
+}
+.links:hover{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+h1{
+    font-size: 100px;
+    font-weight: bold;
+    /* font-family: 'Cormorant SC', serif; */
+    font-family: 'Cormorant SC', serif;
+    color: rgb(99, 3, 3);
+    margin-top: 20px;
+    padding-top: 50px;
+
+}
+.d1{
+    display: flex;
+    padding-left: 25%;
+   justify-content: center;
+}
+div{
+    width:100%;
+    height:500px;
+    background-color:white;
+    border:white;
+    margin:1%;
+    float:left;
+    padding: 10px;
+    margin-top: -50px;
+    margin-left: 70px;
+}
+.c{
+    text-shadow: none;
+    color: rgb(136, 25, 25);
+    font-size: 30px;
+    display: inline;
+    
+}
+.c:hover{
+    font-size: 35;
+    text-decoration: underline;
+}
+.d1{
+    width: 100%;
+    
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#Dinners{
+    /* width: 100%; */
+    /* height: 500px;
+    background: url(./fud.webp);
+    background-size: cover; */
+    font-size: 20px;
+    color: black;
+    text-shadow: 2px rgb(215, 142, 142);
+    font-family: 'Cormorant SC', serif;
+
+    /* font-family: 'Edu VIC WA NT Beginner', cursive; */
+    
+
+}
+#dinn
+{
+    font-size: 50px;
+    color: black;
+    text-shadow: 2px rgb(215, 142, 142);
+    font-family: 'Cormorant SC', serif;
+
+}
+.z{
+    display: flex;
+   
+}
+.x{
+    justify-content: center;
+padding: 1px;
+margin-top: 10px; 
+ width: 100%;
+    height: 100px;
+    background-color:white;
+    /* border: 1px black solid; */
+}
+.y{
+    
+    display: flex;
+    
+} 
+/* #a1{
+    justify-content: center;
+    padding: 1px;
+margin-top: 10px;
+    width: 100%;
+    height: 300px;
+} */
+h3{
+    font-size: 60px;
+    font-weight: bold;
+    /* font-family: 'Cormorant SC', serif; */
+    font-family: 'Cormorant SC', serif;
+    color: black;
+    margin-top: 50px;
+
+}
+ul{
+    position: fixed;
+}
